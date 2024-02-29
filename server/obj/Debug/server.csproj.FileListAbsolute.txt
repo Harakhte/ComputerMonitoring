@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\TEST\server\bin\Debug\server.exe.config
+C:\Users\Admin\source\repos\TEST\server\bin\Debug\server.exe
+C:\Users\Admin\source\repos\TEST\server\bin\Debug\server.pdb
+C:\Users\Admin\source\repos\TEST\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TEST\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Admin\source\repos\TEST\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TEST\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TEST\server\obj\Debug\server.exe
+C:\Users\Admin\source\repos\TEST\server\obj\Debug\server.pdb
+C:\Users\Admin\source\repos\TEST\server\obj\Debug\server.Server.resources
